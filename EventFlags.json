@@ -1,9 +1,5 @@
 {
 	"EventFlags": {
-		"GeodeRBLX": {
-			"eventStart": 1593910800,
-			"eventOverride": "true"
-		},
 		"Vorrupt": {
 			"eventStart": 0,
 			"eventOverride": "false"
