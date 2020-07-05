@@ -5,7 +5,7 @@
 			"eventOverride": "false"
 		},
 		"Vorrupt": {
-			"eventStart": 0
+			"eventStart": 0,
 			"eventOverride": "false"
 		}
 	}
