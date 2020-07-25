@@ -1,11 +1,5 @@
 {
 	"EventFlags": {
-		"Vorrupt": {
-			"eventStart": 1595703900
-		},
-		"DormEcho_01": {
-			"eventStart": 1595704500
-		},
 		"DormEcho_02": {
 			"eventStart": 1595725200
 		},
