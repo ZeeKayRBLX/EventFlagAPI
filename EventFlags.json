@@ -1,11 +1,5 @@
 {
 	"EventFlags": {
-		"DormEcho_03": {
-			"eventStart": 1595800800
-		},
-		"DormEcho_04": {
-			"eventStart": 1595811600
-		},
 		"GameRelease": {
 			"eventStart": 1596326400
 		}
