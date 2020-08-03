@@ -4,7 +4,8 @@
 			"eventStart": 1596258000
 		},
 		"VorruptV2": {
-			"eventStart": 1597518300
+			"eventStart": 1597518300;
+			"eventOverride": true
 		}
 	}
 }
