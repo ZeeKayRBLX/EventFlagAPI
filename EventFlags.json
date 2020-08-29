@@ -1,10 +1,10 @@
 {
 	"EventFlags": {
-		"GameRelease": {
-			"eventStart": 1597228809
+		"Smokey_01": {
+			"eventStart": 0
 		},
-		"VorruptV2": {
-			"eventStart": 1597518000
+		"Banwave": {
+			"eventStart": 1598734800
 		}
 	}
 }
