@@ -1,22 +1,16 @@
 {
 	"EventFlags": {
-		"Smokey_01": {
-			"eventStart": 1600542000
-		},
 		"Smokey_02": {
-			"eventStart": 1601146800
-		},
-		"Smokey_03": {
 			"eventStart": 1601751600
 		},
-		"Smokey_04": {
+		"Smokey_03": {
 			"eventStart": 1602356400
 		},
-		"CorruptorFinale": {
+		"Smokey_04": {
 			"eventStart": 1602961200
 		},
-		"Banwave": {
-			"eventStart": 1598734800
+		"CorruptorFinale": {
+			"eventStart": 0
 		}
 	}
 }
