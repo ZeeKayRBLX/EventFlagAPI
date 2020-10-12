@@ -1,13 +1,7 @@
 {
 	"EventFlags": {
-		"Smokey_02": {
-			"eventStart": 1602961200
-		},
-		"Smokey_03": {
-			"eventStart": 1602356400
-		},
 		"Smokey_04": {
-			"eventStart": 1602536850
+			"eventStart": 1602961200
 		},
 		"CorruptorFinale": {
 			"eventStart": 0
