@@ -1,10 +1,10 @@
 {
 	"EventFlags": {
-		"Smokey_04": {
-			"eventStart": 1602961200
+		"PlaceHolder": {
+			"eventStart": 0
 		},
 		"CorruptorFinale": {
-			"eventStart": 1603566000
+			"eventStart": 1604260800
 		}
 	}
 }
