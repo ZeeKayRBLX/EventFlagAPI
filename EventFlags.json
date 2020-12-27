@@ -3,14 +3,17 @@
 		"PlaceHolder": {
 			"eventStart": 1608408000
 		},
-		"ExoBirthday": {
-			"eventStart": 1608514200
-		},
 		"Tragedy": {
 			"eventStart": 1608408000
 		},
 		"S2_Release": {
 			"eventStart": 1613872800
+		},
+		"NY2021": {
+			"eventStart": 1577944800
+		},
+		"Core": {
+			"eventStart": 1609203600
 		}
 	}
 }
