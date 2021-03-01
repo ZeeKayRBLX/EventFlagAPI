@@ -1,19 +1,10 @@
 {
 	"EventFlags": {
-		"TheEnd": {
-			"eventStart": 1610092800
-		},
-		"Tragedy": {
-			"eventStart": 1608408000
-		},
 		"S2_Release": {
-			"eventStart": 1613872800
-		},
-		"NY2021": {
-			"eventStart": 1609480800
+			"eventStart": 1620068400
 		},
 		"Core": {
-			"eventStart": 1609203600
+			"eventStart": 1616266800
 		}
 	}
 }
