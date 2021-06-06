@@ -1,13 +1,7 @@
 {
 	"EventFlags": {
-		"Season_Release": {
-			"eventStart": 1620068400
-		},
-		"Event_Flag": {
-			"eventStart": 1620500400
-		},
-		"PlaceHolder": {
-			"eventStart": 1614741960
+		"NightNight": {
+			"eventStart": 1623106800
 		}
 	}
 }
